@@ -1,0 +1,42 @@
+.body {
+    margin: 0%;
+}
+
+.background{
+    width: 100%;
+    height: 100vh;
+    background-image: url("resources/background2.jpg");
+    background-size: cover;
+    background-repeat: repeat-x;
+    overflow: hidden;
+    position: absolute;
+
+}
+
+.boy{
+    height: 265px;
+    margin-top: 362px;
+    margin-left:100px;
+    position: absolute;
+
+}
+
+.box{
+    height: 100px;
+    margin-top: 150px;
+    background-image: url(resources/map.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    ;
+}
+
+.dlg{
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+
+
+
